@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EFH__All</fullName>
+    <columns>NAME</columns>
+    <columns>EFH__Field_Name__c</columns>
+    <columns>EFH__New_Value__c</columns>
+    <columns>EFH__Original_Value__c</columns>
+    <columns>EFH__Record_Id__c</columns>
+    <columns>EFH__Field_API_Name__c</columns>
+    <columns>EFH__Object_Name__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>
